@@ -1,0 +1,6 @@
+color = input("enter a color")
+noun = input("enter a noun")
+celeb = input("enter a celeb")
+print(f"Roses are {color}")
+print(f"{noun} are blue")
+print(f"I love {celeb}")
