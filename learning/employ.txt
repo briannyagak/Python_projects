@@ -1,0 +1,6 @@
+James - sales
+Brian - venv
+Jose - ggg
+bdd - ff
+Dwight - Human resources
+Michael - Manager
